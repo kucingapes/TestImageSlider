@@ -23,6 +23,7 @@ public class FullSlider extends AppCompatActivity {
     private AdapterFull adapterFull;
 
     //tesss
+    //bah
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
