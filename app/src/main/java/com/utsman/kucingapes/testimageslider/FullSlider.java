@@ -22,6 +22,8 @@ public class FullSlider extends AppCompatActivity {
     private ViewPager fullSlider;
     private AdapterFull adapterFull;
 
+    //tesss
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
